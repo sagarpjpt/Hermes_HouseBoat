@@ -10,10 +10,6 @@ A modern and responsive **Travel Booking Website** frontend built using **HTML**
 
 - 🖼️ Fullscreen image slider/hero section
 - 📍 Destination cards with images and details
-  <<<<<<< HEAD
-- # 📅 Booking call-to-action (CTA) buttons
-- 📱 Mobile-first responsive design
-  > > > > > > > 3aae52d6cb75b3694153264de64d6f530c7c1d2f
 - 🎨 Custom color theme (blue & white)
 
 ---
